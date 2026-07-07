@@ -124,6 +124,7 @@ And serving three functional roles:
 | **MemEngine**        | Unified and modular library specifically designed for developing advanced memory systems for LLM-based agents.                                         | —                   | [Paper](https://arxiv.org/abs/2505.02941)                                               |
 | **Cognee**           | Memory management for AI agents and applications — deterministic memory with knowledge graphs and vector retrieval.                                    | 2k+                 | [GitHub](https://github.com/topoteretes/cognee)                                         |
 | **MEM1**             | MIT's RL-based memory agent framework. Trains agents to consolidate memory as part of reasoning.                                                       | —                   | [GitHub](https://github.com/MIT-MI/MEM1)                                                |
+| **Tree Ring Memory** | Local-first Rust memory lifecycle framework for AI agents. Uses project-scoped SQLite/FTS storage with explicit recall, redaction/delete, audit, consolidation, JSON export, and CLI/TUI workflows. | 2                   | [GitHub](https://github.com/TerminallyLazy/Tree-Ring-Memory) · [Docs](https://terminallylazy.github.io/Tree-Ring-Memory/) |
 
 ---
 
