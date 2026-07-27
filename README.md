@@ -124,6 +124,7 @@ And serving three functional roles:
 | **MemEngine**        | Unified and modular library specifically designed for developing advanced memory systems for LLM-based agents.                                         | —                   | [Paper](https://arxiv.org/abs/2505.02941)                                               |
 | **Cognee**           | Memory management for AI agents and applications — deterministic memory with knowledge graphs and vector retrieval.                                    | 2k+                 | [GitHub](https://github.com/topoteretes/cognee)                                         |
 | **MEM1**             | MIT's RL-based memory agent framework. Trains agents to consolidate memory as part of reasoning.                                                       | —                   | [GitHub](https://github.com/MIT-MI/MEM1)                                                |
+| **Memorant**         | Zero-dependency, local-first claim store in a single SQLite file — provenance, trust tiers, atomic corrections, and FTS5 retrieval. Every fact records its source; corrections propagate atomically and flag downstream claims for review. | —                   | [GitHub](https://github.com/tier4research/memorant) · [Docs](https://github.com/tier4research/memorant#readme) |
 
 ---
 
