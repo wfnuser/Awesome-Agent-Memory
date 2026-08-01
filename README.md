@@ -124,7 +124,7 @@ And serving three functional roles:
 | **MemEngine**        | Unified and modular library specifically designed for developing advanced memory systems for LLM-based agents.                                         | —                   | [Paper](https://arxiv.org/abs/2505.02941)                                               |
 | **Cognee**           | Memory management for AI agents and applications — deterministic memory with knowledge graphs and vector retrieval.                                    | 2k+                 | [GitHub](https://github.com/topoteretes/cognee)                                         |
 | **MEM1**             | MIT's RL-based memory agent framework. Trains agents to consolidate memory as part of reasoning.                                                       | —                   | [GitHub](https://github.com/MIT-MI/MEM1)                                                |
-| **Origin**           | Local-first AI work memory for MCP clients, carrying session handoffs, decisions, source-backed wiki pages, and hybrid retrieval through one daemon.  | 32                  | [GitHub](https://github.com/7xuanlu/origin) · [Docs](https://useorigin.app/docs)        |
+| **Wenlan**           | Local-first AI knowledge base and LLM wiki for MCP clients, with source-cited pages, session handoffs, and hybrid retrieval through one daemon.        | 46                  | [GitHub](https://github.com/7xuanlu/wenlan) · [Docs](https://wenlan.app/docs)           |
 
 ---
 
