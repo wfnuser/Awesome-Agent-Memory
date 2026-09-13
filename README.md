@@ -123,6 +123,7 @@ And serving three functional roles:
 | **Zep**              | Long-term memory service for AI assistants — auto-summarization, entity extraction, temporal awareness, and semantic search over conversation history. | 2k+                 | [GitHub](https://github.com/getzep/zep)                                                 |
 | **MemEngine**        | Unified and modular library specifically designed for developing advanced memory systems for LLM-based agents.                                         | —                   | [Paper](https://arxiv.org/abs/2505.02941)                                               |
 | **Cognee**           | Memory management for AI agents and applications — deterministic memory with knowledge graphs and vector retrieval.                                    | 2k+                 | [GitHub](https://github.com/topoteretes/cognee)                                         |
+| **ContextStream**    | Shared project memory / MCP for AI coding agents so Cursor, Claude, Codex, Grok, and others share context across tools.                               | 43                  | [GitHub](https://github.com/contextstream/mcp-server) · [Site](https://contextstream.io) |
 | **MEM1**             | MIT's RL-based memory agent framework. Trains agents to consolidate memory as part of reasoning.                                                       | —                   | [GitHub](https://github.com/MIT-MI/MEM1)                                                |
 
 ---
