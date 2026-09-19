@@ -126,6 +126,7 @@ And serving three functional roles:
 | **MEM1**             | MIT's RL-based memory agent framework. Trains agents to consolidate memory as part of reasoning.                                                       | —                   | [GitHub](https://github.com/MIT-MI/MEM1)                                                |
 
 ---
+| **Hyperconsciousness** | Developer-alpha encrypted, append-only knowledge store with MCP search and retrieval through scoped, expiring grants. | 1 | [GitHub](https://github.com/louis030195/hyperconsciousness) · [Docs](https://github.com/louis030195/hyperconsciousness#give-an-agent-limited-access) |
 
 ## Workshops & Community
 
