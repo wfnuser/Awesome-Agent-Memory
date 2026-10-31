@@ -124,6 +124,7 @@ And serving three functional roles:
 | **MemEngine**        | Unified and modular library specifically designed for developing advanced memory systems for LLM-based agents.                                         | —                   | [Paper](https://arxiv.org/abs/2505.02941)                                               |
 | **Cognee**           | Memory management for AI agents and applications — deterministic memory with knowledge graphs and vector retrieval.                                    | 2k+                 | [GitHub](https://github.com/topoteretes/cognee)                                         |
 | **MEM1**             | MIT's RL-based memory agent framework. Trains agents to consolidate memory as part of reasoning.                                                       | —                   | [GitHub](https://github.com/MIT-MI/MEM1)                                                |
+| SoloPup Memory | Source-linked text-memory plugin for DeepSeek Harness with global/project scopes, reviewed writes and revision history; MIT, public beta. | 0 | [GitHub](https://github.com/OakcoderX/solopup-memory) |
 
 ---
 
